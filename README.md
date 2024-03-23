@@ -1,5 +1,4 @@
 # Simple Spring Boot Hibernate App
-[![Build Status](https://app.travis-ci.com/prafullsranjan/simple-springboot-hibernate-app.svg?branch=master)](https://app.travis-ci.com/prafullsranjan/simple-springboot-hibernate-app)
 
 This is a simple spring boot web app to integrate Hibernate framework and using H2 database.
 
